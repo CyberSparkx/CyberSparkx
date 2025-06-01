@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Naren Roy</h1>
-<h3 align="center">I am a skilled web developer specializing in the creation of dynamic and visually captivating web pages. With expertise in both 2D and 3D animations, I bring websites to life using advanced technologies and frameworks. My proficiency includes developing animated web pages and immersive 3D experiences that engage and delight users. Leveraging tools such as GSAP, ScrollTrigger, Locomotive.js, React Three Fiber, React Drei, and Tailwind CSS, I create seamless, responsive, and interactive web applications. My passion for continuous learning drives me to stay updated with the latest trends and technologies in web development, ensuring that each project is cutting-edge and innovative. Committed to delivering high-quality web solutions, I excel in translating client visions into functional and aesthetically pleasing digital experiences.</h3>
+# 👋 Hi, I'm Naren Roy  
+### 🎨 Animating the Web with Cutting-Edge 2D & 3D Experiences
 
-- 🔭 I’m currently working on **Macbook Pro clone page**
-
-- 🌱 I’m currently learning **THREE JS , MERN Stack , GSAP ,Lenis , Scroll Trigger , Swiper js , Locomotive js , Tailwind , Bootstrap , Ejs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CyberSparkx](https://github.com/CyberSparkx)
-
-- 💬 Ask me about **React , GSAP , WebDev**
-
-- 📫 How to reach me **narensarkar607@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/naren-roy-4390a6238](https://www.linkedin.com/in/naren-roy-4390a6238)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=CyberSparkx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CyberSparkx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSparkx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a passionate Web Developer focused on **visually immersive** and **interactive** websites using modern tools like **React**, **GSAP**, **React Three Fiber**, and **Shery.js**.  
+I love turning creative ideas into smooth animations and 3D experiences — from subtle micro-interactions to full-blown 3D worlds.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CyberSparkx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 A Glimpse into My Work
 
+- 🎮 **[3D Portfolio (Coming Soon)]()** – An interactive 3D experience using React Three Fiber, showcasing my skills with shaders, lighting, and animation.
+- 🛒 **[Modern E-Commerce UI](https://github.com/yourusername/ecommerce-ui)** – Clean, responsive frontend with micro-interactions, built with Next.js & Tailwind CSS.
+- 🧲 **[Animated Web Demo](https://github.com/yourusername/animated-web)** – Showcasing smooth GSAP + Shery.js animations with magnetic effects and transitions.
+- 🗺️ **[Open Source Mapping Tool](https://github.com/yourusername/mapping-app)** – Developed as part of the YouthMappers/FOSS United collaboration.
+
+---
+
+### 🔨 Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss)
+
+**Animation & 3D**
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=000)
+![React Three Fiber](https://img.shields.io/badge/-ReactThreeFiber-000?logo=three.js&logoColor=white)
+![Shery.js](https://img.shields.io/badge/-Shery.js-FF69B4)
+
+**Tools**
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+
+---
+
+### 🔍 Currently Learning
+
+- 🧪 **Custom GLSL Shaders**
+- 💡 **Advanced React Three Fiber lighting & interactions**
+- 📱 **App Development with React Native & Flutter**
+- 🛠️ **Improving my English & communication skills**
+
+---
+
+### 🔧 Currently Working On
+
+- 🎯 A 3D animated developer portfolio
+- 💻 Frontend for a modern e-commerce website (Next.js + Tailwind)
+- 🧭 Club activities at [CHT Club - Siliguri Govt. Polytechnic](https://github.com/CHT-SGP)
+
+---
+
+### 💼 Skills
+
+- **Web Technologies**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+- **2D/3D Animation**: GSAP, Shery.js, React Three Fiber, Three.js  
+- **Design Tools**: Figma, Canva  
+- **Soft Skills**: Creative thinking, teaching, problem-solving, team collaboration
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+
+---
+
+### 📊 GitHub Stats
+
+![Naren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narenroy&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narenroy&layout=compact&theme=radical)
+
+---
+
+### 🌱 Contribution Highlights
+
+I'm constantly building, experimenting, and helping juniors in the dev community. I believe in **learning in public**, sharing knowledge, and inspiring the next generation of creative developers.
+
+---
+
+> “Make it work, make it right, make it beautiful.”  
+> — My personal motto.
