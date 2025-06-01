@@ -17,10 +17,10 @@ I'm a passionate web developer specializing in creating immersive, interactive, 
 
 ## 🔥 Highlight Projects
 
-- 🎯 [**3D Developer Portfolio**](#) – *An immersive, interactive 3D portfolio built using React Three Fiber, shaders & GSAP*
-- 🛒 [**E-commerce Site (in progress)**](#) – *Clean UI, minimal transitions, built using Next.js and Tailwind CSS*
-- 🧪 [**Mini GSAP Animations Collection**](#) – *A collection of subtle and modern animation micro-interactions*
-- 🌐 [**Responsive Websites Showcase**](#) – *Pixel-perfect responsive sites built with HTML, CSS, and JS*
+- 🎯 [**3D Developer Portfolio (Coming Soon)**](https://www.linkedin.com/in/naren-roy-4390a6238/) – *An immersive, interactive 3D portfolio built using React Three Fiber, shaders & GSAP*
+- 🛒 [**E-commerce Site (in progress)**](https://www.linkedin.com/in/naren-roy-4390a6238/) – *Clean UI, minimal transitions, built using Next.js and Tailwind CSS*
+- 🧪 [**Mini GSAP Animations Collection**](https://www.linkedin.com/in/naren-roy-4390a6238/) – *A collection of subtle and modern animation micro-interactions*
+- 🌐 [**Responsive Websites Showcase**](https://www.linkedin.com/in/naren-roy-4390a6238/) – *Pixel-perfect responsive sites built with HTML, CSS, and JS*
 
 ---
 
@@ -87,8 +87,8 @@ I'm a passionate web developer specializing in creating immersive, interactive, 
 
 ## 📬 Let's Connect
 
-- 📧 Email: [narenroy.business@gmail.com](mailto:narenroy.business@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/narenroy/)
+- 📧 Email: [narenroy.business@gmail.com](mailto:narensarkar607@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naren-roy-4390a6238/)
 - 🌐 [Portfolio (coming soon)](#)
 
 ---
