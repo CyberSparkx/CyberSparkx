@@ -31,10 +31,10 @@ const naren: FullstackDev = {
  
 <br/>
 
-> 🎨 &nbsp;Frontend is my craft — I obsess over **motion, micro-interactions & 3D rendering**  
-> 🔩 &nbsp;Fullstack when it counts — **MERN + Prisma**, deployed on **AWS, Vercel & Hostinger**  
-> 🎓 &nbsp;Mentoring juniors entering the world of **creative web animation**  
-> ⚡ &nbsp;Open-source contributor · pixel perfectionist · always shipping
+>  &nbsp;Frontend is my craft — I obsess over **motion, micro-interactions & 3D rendering**  
+>  &nbsp;Fullstack when it counts — **MERN + Prisma**, deployed on **AWS, Vercel & Hostinger**  
+>  &nbsp;Mentoring juniors entering the world of **creative web animation**  
+>  &nbsp;Open-source contributor · pixel perfectionist · always shipping
  
 ---
  
