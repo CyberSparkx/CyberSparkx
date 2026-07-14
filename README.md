@@ -8,7 +8,6 @@
 
 ---
 
-
 ## ◈ &nbsp;About Me
  
 ```typescript
